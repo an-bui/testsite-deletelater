@@ -11,6 +11,6 @@
     "href": "index.html",
     "title": "testsite-deletelater",
     "section": "",
-    "text": "this is a test website\ncreate a repo on github as usual\nclone to computer\nrun quarto create-project --type website in terminal\nrestart r session\nopen up project again\nyou should see build and git tabs\nrun touch .nojekyll in terminal\nadd output-dir: docs to _quarto.yml\nbuild website on build tab &gt; render website"
+    "text": "this is a test website\ncreate a repo on github as usual\nclone to computer\nrun quarto create-project --type website in terminal\nrestart r session\nopen up project again\nyou should see build and git tabs\nrun touch .nojekyll in terminal\nadd output-dir: docs to _quarto.yml\nbuild website on build tab &gt; render website\nstage, commit, push changes"
   }
 ]

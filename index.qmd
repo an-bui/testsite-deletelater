@@ -22,3 +22,5 @@ add `output-dir: docs` to `_quarto.yml`
 
 build website on build tab > render website
 
+stage, commit, push changes
+
