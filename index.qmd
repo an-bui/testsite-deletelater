@@ -1,0 +1,24 @@
+---
+title: "testsite-deletelater"
+---
+
+this is a test website
+
+create a repo on github as usual
+
+clone to computer
+
+run `quarto create-project --type website` in terminal
+
+restart r session
+
+open up project again
+
+you should see build and git tabs
+
+run `touch .nojekyll` in terminal
+
+add `output-dir: docs` to `_quarto.yml`
+
+build website on build tab > render website
+
